@@ -20,6 +20,7 @@ pom.xml.asc
 .nrepl-port
 /.clj-kondo
 /.lsp
+/.calva
 
 ### OSX ###
 .DS_Store
